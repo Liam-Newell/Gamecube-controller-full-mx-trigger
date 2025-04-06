@@ -3,7 +3,9 @@
 The trigger may not fit on the first print and may need to be scaled by a percent or two. Otherwise a small amount of dremel work is required. In addition you need to soder the leads of the mx key to the appropriate trigger in order to use it.
 
 ## Files
-There are two files one for each trigger. They are designed to be a very close fit to the inside of the case, **I recommend printing at 99-98% scaling** depending on the dimentational accuracy of your printer
+There are two files one for each trigger. They are designed to be a very close fit to the inside of the case, 
+
+**I recommend printing at 99-98% scaling** depending on the dimentational accuracy of your printer
 
 ![image](https://github.com/user-attachments/assets/302ef6aa-a9a7-4620-ab97-d57e7439f692)
 
