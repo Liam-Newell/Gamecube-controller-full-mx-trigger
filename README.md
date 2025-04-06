@@ -20,3 +20,7 @@ _IN ORDER TO USE THE TRIGGER YOU NEED THE MX KEY MOUNT MADE BY **Erran & Carvac*
 [**Right trigger mx bracket**](https://cdn.discordapp.com/attachments/999777690083147826/1129538079863083058/altmxv3right.stl?ex=67f44fd0&is=67f2fe50&hm=0f89af63950b86e1305644ed32d349e925b984b351b250f6b0318a4a0e92f1eb&)
 
 ![image](https://github.com/user-attachments/assets/170f9ca1-fb44-48a3-9b8d-b659200208f9)
+
+
+## Shout out
+Shout out to the person who helped me design the trigger, i can't find your discord but you shaped the actually ergo bend on the trigger top to make it way better so thank you. And also thanks to plant for testing this for me
