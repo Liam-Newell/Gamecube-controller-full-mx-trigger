@@ -1,4 +1,6 @@
 # Gamecube controller cherry mx trigger full print
+## Purpose
+this replaces the need to use any trigger plugs or any additional hardware. besides having the Cherry MX switch and the trigger itself. no additional modifications should be needed or cuts to the Shell
 ## Warnings
 The trigger may not fit on the first print and may need to be scaled by a percent or two. Otherwise a small amount of dremel work is required. In addition you need to soder the leads of the mx key to the appropriate trigger in order to use it.
 
